@@ -1,0 +1,8 @@
+.nav-container {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+    text-decoration: underline;
+    font-size: 22px;
+    cursor: pointer;
+}
